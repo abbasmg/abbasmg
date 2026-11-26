@@ -19,7 +19,9 @@ I build the ML and data systems behind fraud detection at enterprise scale, from
 ## 🛠️ Tech Stack
 
 **ML & Data:** `Python` `pandas` `NumPy` `scikit-learn` `R` `SQL` `ElasticSearch`
+
 **Retrieval & GenAI:** `RAG` `Embeddings` `pgvector`
+
 **Engineering:** `FastAPI` `C#` `.NET Core` `Docker` `PostgreSQL` `GitHub Actions`
 
 ---
